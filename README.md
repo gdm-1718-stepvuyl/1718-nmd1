@@ -4,3 +4,4 @@
 ## New media design
 
 Created by S;Vuylsteke
+Grafische en digitale media - Arteveldehogeschool 
