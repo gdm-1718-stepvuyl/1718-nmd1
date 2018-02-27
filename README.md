@@ -3,5 +3,5 @@
 
 ## New media design
 
-Created by S;Vuylsteke
+Created by Stephanie Vuylsteke
 Grafische en digitale media - Arteveldehogeschool 
