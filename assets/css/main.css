@@ -16,11 +16,4 @@ body {
 
  .navbar {
     background-color: hsl(60, 100%, 60%);
-    font-weight: 900;
-    height: 100px;
-    letter-spacing: 1px;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-end;
-    width: 100%;
-}
+ }
